@@ -2,7 +2,6 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Raspberry Pi](https://img.shields.io/badge/raspberrypi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![Zigbee](https://img.shields.io/badge/Zigbee-3.0-blue?logo=zigbee)
-![Zigbee2MQTT](https://shields.io)
 
 ## Background
 The concept is simple: A customer at a bar/restaurant could push a button in the bathroom, and suddenly loud music starts playing, lights start flashing, and disco balls start spinning, creating a immersive, fun, and "instagrammable" toilet experience.
@@ -11,7 +10,6 @@ I figured that I could make a simple, cheap to implement, stripped-back, yet hig
 
 ## Demonstration
 Find a YouTube short demonstration [here](https://youtube.com/shorts/kEkEy_Jyqew?feature=share)
-<img width="1140" height="1952" alt="image" src="https://github.com/user-attachments/assets/5f0f1007-9bbc-48da-b6a0-05599e25cf75" />
 
 ## Features
 - Trigger a disco sequence at the push of a physical button
